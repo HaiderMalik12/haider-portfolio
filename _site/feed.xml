@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Haider Malik Protfolio</title>
+    <title>Haider Malik Portfolio</title>
     <description>Mean Stack Developer, Angular Js , Angular 2, Sails js, Express Js, Node js,Mongo  Mysql React, Ionic, React Native, Ionic2
 </description>
     <link>http://haiderportolio.com/</link>
     <atom:link href="http://haiderportolio.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 Oct 2016 23:12:31 +0500</pubDate>
-    <lastBuildDate>Tue, 18 Oct 2016 23:12:31 +0500</lastBuildDate>
+    <pubDate>Wed, 19 Oct 2016 00:16:34 +0500</pubDate>
+    <lastBuildDate>Wed, 19 Oct 2016 00:16:34 +0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>

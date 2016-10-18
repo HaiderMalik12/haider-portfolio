@@ -12,8 +12,8 @@ dl, dd, ol, ul, figure {
  */
 body {
   font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #111;
-  background-color: #fdfdfd;
+  color: #333;
+  background-color: #fefef3;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -60,18 +60,34 @@ li > ol {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 400; }
+  font-weight: 400;
+  text-align: center; }
+
+.mega {
+  font-size: 100px; }
+
+h1, .h1 {
+  font-size: 70px; }
+
+h2, .h2 {
+  font-size: 40px; }
+
+h3, .h3 {
+  font-size: 30px; }
+
+h4, .h4 {
+  font-size: 24px; }
 
 /**
  * Links
  */
 a {
-  color: #2a7ae2;
+  color: #fe5f55;
   text-decoration: none; }
   a:visited {
-    color: #1756a9; }
+    color: #fe1709; }
   a:hover {
-    color: #111;
+    color: #92b5bd;
     text-decoration: underline; }
 
 /**
@@ -169,7 +185,7 @@ pre {
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
-    color: #111;
+    color: #333;
     line-height: 1.5; }
     .site-nav .page-link:not(:last-child) {
       margin-right: 20px; }
@@ -178,7 +194,7 @@ pre {
       position: absolute;
       top: 9px;
       right: 15px;
-      background-color: #fdfdfd;
+      background-color: #fefef3;
       border: 1px solid #e8e8e8;
       border-radius: 5px;
       text-align: right; }
